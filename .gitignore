@@ -1,0 +1,23 @@
+
+# Python Cache
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+
+# Root Virtual Environment Files
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+
+# Other Environments
+fastapi-env/
+blog-env/
+
+# Databases
+*.db
+*.sqlite3
+
+# Deta Cloud
+main-app/.deta/
